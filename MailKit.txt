@@ -1,4 +1,0 @@
-http://www.mimekit.net/docs/html/T_MimeKit_BodyBuilder.htm
-http://www.mimekit.net/docs/html/Introduction.htm
-https://discoverdot.net/projects/mailkit
-
